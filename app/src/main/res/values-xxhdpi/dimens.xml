@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_margin">13dp</dimen>
+    <dimen name="x_o_width">90dp</dimen>
+    <dimen name="x_o_height">100dp</dimen>
+    <dimen name="board_height">601dp</dimen>
+    <dimen name="player_turn_margin_top">70dp</dimen>
+    <dimen name="btn_reset_margin">10dp</dimen>
+    <dimen name="x_o_place_height">450dp</dimen>
+</resources>
